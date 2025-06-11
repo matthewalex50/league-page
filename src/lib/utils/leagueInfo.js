@@ -23,7 +23,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "466375224409976832": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID" : "466375224409976832"
       "name": "Garrett Hower",
       "bio": "Garrett joined the TNFFL as a founder member and life-long friend of Commissioner Alexander. While the TNFFL was his first venture into Dynasty play, Garrett's success was immediate when he secured the 1st TNFFL Championship in 2021. In 2023, Garrett led Cleveland to it's 2nd TNFFL Championship. Garrett is the only 2X TNFFL Champion to-date.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
