@@ -16,6 +16,10 @@
 
     $: viewManager = managers[manager];
 
+    $: datesActive = getDatesActive(leagueTeamManagers, viewManager.managerID);
+
+    $: viewManager = managers[manager];
+
     const  startersAndReserve = rostersData.startersAndReserve;
     let rosters = rostersData.rosters;
 
