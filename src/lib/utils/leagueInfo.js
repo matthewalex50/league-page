@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Founded in 2021, the Technically National Fantasy Football League is a 10-team dynasty league. The TNFFL has ownership representation in 4 states across the US and franchise headquarters spread across the entire US and into Europe. The TNFFL prides itself on provide a fun and competitive environment for all franchises.</p>
-  <p>~Insert League History/Facts~.</p>
+  <p>~Test Insert League History/Facts~.</p>
   <p>~Insert League History/Facts~.</p>
 `;
 
