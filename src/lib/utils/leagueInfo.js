@@ -48,10 +48,10 @@ export const managers = [
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "466233419035045888",
-      "name": "Jared Knous",
+      "name": "Jared 'J-Rod' Knous",
       "location": "Celina, OH", // (optional)
       "bio": "I have been an owner in the TNFFL since its inauguration. It was my first dynasty that I've ever been a part of and I've loved it ever since we started this league. This leage has morphed into one of the top two leagues that I play in. And now my wife hates that I now have an excuse to watch fantasy football content year-round.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/jared.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
